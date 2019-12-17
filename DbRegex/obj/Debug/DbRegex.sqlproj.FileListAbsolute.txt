@@ -1,0 +1,9 @@
+C:\Users\Fiach\source\repos\DbRegex\DbRegex\bin\Debug\DbRegex.dacpac
+C:\Users\Fiach\source\repos\DbRegex\DbRegex\bin\Debug\DbRegex.dll
+C:\Users\Fiach\source\repos\DbRegex\DbRegex\bin\Debug\DbRegex.pdb
+C:\Users\Fiach\source\repos\DbRegex\DbRegex\obj\Debug\Model.xml
+C:\Users\Fiach\source\repos\DbRegex\DbRegex\obj\Debug\refactor.xml
+C:\Users\Fiach\source\repos\DbRegex\DbRegex\obj\Debug\postdeploy.sql
+C:\Users\Fiach\source\repos\DbRegex\DbRegex\obj\Debug\predeploy.sql
+C:\Users\Fiach\source\repos\DbRegex\DbRegex\obj\Debug\DbRegex.dll
+C:\Users\Fiach\source\repos\DbRegex\DbRegex\obj\Debug\DbRegex.pdb

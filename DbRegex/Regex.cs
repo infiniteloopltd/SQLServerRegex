@@ -9,4 +9,11 @@ public partial class UserDefinedFunctions
         var match = RX.Regex.Match(input, regex).Groups[1].Value;
         return new SqlString (match);
     }
+
+    [Microsoft.SqlServer.Server.SqlFunction]
+    public static SqlString RegexReplace(string input, string regex, string replacement)
+    {
+        var result = RX.Regex.Replace(input, regex, replacement);
+        return new SqlString(result);
+    }
 }
